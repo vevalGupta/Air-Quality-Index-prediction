@@ -86,6 +86,15 @@ If you'd like to improve the dataset, model, or visualizations, feel free to for
 This project is released under the **MIT License**.
 
 ---
+# AQI Prediction Dashboard
+
+### 🔗 Live Dashboard View
+View it here: # AQI Prediction Dashboard
+
+### 🔗 Live Dashboard View
+View it here: https://app.powerbi.com/links/k7GIvoorU5?ctid=a6dbddde-5798-4eba-a5a8-78807e82d9eb&pbi_source=linkShare&bookmarkGuid=b39309c2-a2b2-4588-b753-8f503733ecf4
+
+
 
 ## ✨ Author
 **Veval Gupta**  
